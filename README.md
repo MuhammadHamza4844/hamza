@@ -1,2 +1,3 @@
 # hamza
-demo
+This is my first git repozitory
+Muhammad Hamza
